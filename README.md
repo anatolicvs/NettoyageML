@@ -2,7 +2,7 @@
 
 This is the EISTI.NettoyageML Benchmark for Joint Data Cleaning and Machine Learning. 
 
-The codebase is located in: https://github.com/aytacozkan/EISTI.NettoyageML
+The codebase is located in: https://github.com/magnusanatolius/NettoyageML
 
 ## Basic Usage
 ### Run Experiments
